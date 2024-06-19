@@ -2,7 +2,7 @@
 import '../globals.css'
 import 'bootstrap/dist/css/bootstrap.css';
 import Link from 'next/link';
-import { ContactsList } from '../components/ContactsList'
+import { ContactsList } from '../components/ContactList';
 
 export default function Contacts() {
 
